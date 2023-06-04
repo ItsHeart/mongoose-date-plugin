@@ -44,6 +44,7 @@ module.exports = app => {
 };
 ```
 
+
 #### 3. response format:
 ```
 {
@@ -52,3 +53,4 @@ module.exports = app => {
   ...
 }
 ```
+more format looking for at [moment](https://github.com/moment/moment)

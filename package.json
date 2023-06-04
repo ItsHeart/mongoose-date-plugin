@@ -1,6 +1,6 @@
 {
   "name": "mongoose-date-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a plugin to format date type in mongodb",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItsHeart/https-github.com-chapin666-mongoose-date-format.git"
+    "url": "git+https://github.com/ItsHeart/mongoose-date-plugin.git"
   },
   "keywords": [
     "mongoose",
