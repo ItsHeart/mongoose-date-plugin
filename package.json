@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-date-plugin",
+  "version": "1.0.0",
+  "description": "a plugin to format date type in mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsHeart/https-github.com-chapin666-mongoose-date-format.git"
+  },
+  "keywords": [
+    "mongoose",
+    "date",
+    "format",
+    "mongodb",
+    "express"
+  ],
+  "author": "itsheart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsHeart/https-github.com-chapin666-mongoose-date-format/issues"
+  },
+  "homepage": "https://github.com/ItsHeart/https-github.com-chapin666-mongoose-date-format#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  }
+}
